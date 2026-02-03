@@ -22,6 +22,17 @@ Handles multiple DOM structures for ratings
 Null-safe and resilient scraping logic
 Clean, readable console output
 
+🧠 Key Learnings
+DOM inspection and traversal
+Writing accurate CSS selectors
+Handling inconsistent HTML structures
+Defensive coding in web scraping
+Difference between API-based and HTML-based data extraction
+
+⚠ Disclaimer
+This project uses a test website designed for web scraping practice.
+For real-world websites, always follow legal and ethical scraping guidelines.
+
 🔗 Target Website : https://webscraper.io/test-sites
 https://webscraper.io/test-sites/e-commerce/allinone/phones/touch
 https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
